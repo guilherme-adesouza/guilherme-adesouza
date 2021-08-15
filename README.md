@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilherme.souza2@universo.univates.br)
 
 - 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as Fullstack Developer
-- :mortar_board: I'm currently studying Software Engineering (almost done! :hourglass:) 
-- 🌱 I’m currently learning Python :snake:
+- :mortar_board: Software Engineer 
+- 🌱 I’m currently learning Python and Go
 - :heart: I love teach and learn!
 - :muscle: I'm good at Java :coffee:, ReactJS <img alt="ReactJS Logo" src="https://reactjs.org/favicon.ico" height="16">, NodeJS <img alt="NodeJS Logo" src="https://nodejs.org/favicon.ico" height="16"> and Docker :whale:
 
