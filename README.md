@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-adesouza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilherme.souza2@universo.univates.br)
 
-- 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as Fullstack Developer
+- 🔭 I’m currently working on [Descomplica](https://www.descomplica.com.br/) as Fullstack Developer
 - :mortar_board: Software Engineer 
 - 🌱 I’m currently learning Python and Go
 - :heart: I love teach and learn!
