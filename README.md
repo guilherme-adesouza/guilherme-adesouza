@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-adesouza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilherme.adesouzapg@gmail.com)
-
 [![Twitter Badge](https://img.shields.io/twitter/follow/_cephalon?label=Follow&style=social)](https://twitter.com/_cephalon)
 
 - 🔭 I’m currently working on [Amazon Brazil](https://www.amazon.com.br/) as Software Engineer
